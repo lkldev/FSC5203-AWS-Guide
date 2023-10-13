@@ -1,4 +1,4 @@
-# Creating a Memory Forensics AWS EC2
+# Creating a AWS EC2 for Memory Forensics
 
 ## Prerequisite
 1. Please ensure you have created an AWS account [here](https://aws.amazon.com/console/).
