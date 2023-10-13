@@ -72,7 +72,9 @@
 1. To shutdown the instance, navigate back to the instance page by clicking on the instance ID at the `Connect to instance` page. You may also search `EC2` and click `Instances (running)` followed by the instance ID to reach the instance page.
     <br/>
     <img src="images/connect_instance.png" width="700">
+    
 1. On the right, click on `Instance state`.
-<br/>
-<img src="images/instance_state.png" width="700">
+    <br/>
+    <img src="images/instance_state.png" width="700">
+
 1. If you are done with the examination and would like to delete the EC2, choose `Terminate instance` to stop and **DELETE** the EC2. If you would like to continue at a later time or day, choose `Stop instance` to shut down the EC2 instance without deleting it. To start the instance, select `Start instance`.
